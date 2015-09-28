@@ -1,1 +1,2 @@
 myproject1
+http://teach.github.com
